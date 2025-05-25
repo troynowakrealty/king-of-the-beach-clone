@@ -1,0 +1,13 @@
+{
+  "name": "king-of-the-beach-backend",
+  "version": "1.0.0",
+  "description": "Backend server for King of the Beach",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {}
+}
